@@ -1,0 +1,360 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+	
+}
+
+header{
+	background-image: url(img/bg.jpg);
+	height: 530px;
+	padding-top: 30px;
+	background-position: center;
+	background-size: cover;
+
+
+}
+.container{
+	width: 81%;
+	margin: 0 auto;
+}
+
+.menu{
+	width: 42%;
+	float: left;
+	font-size:px;
+}
+
+.logo{
+	width: 32%;
+	float: left;
+	overflow: hidden;
+
+}
+.btn{
+	width: 26%;
+	overflow: hidden;
+}
+
+
+.menu nav ul li{
+	display: inline;
+	margin-right: 20px;
+
+}
+
+.logo img{
+	width:80px ;
+	height: px;
+
+}
+
+.menu nav ul li a{
+	text-decoration: none;
+	color:  rgba(255, 255, 255,0.6);
+}
+
+.menu nav ul li a:hover{
+	color:white;
+}
+
+.bt{
+	padding: 12px 24px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	margin-right: 20px;
+	background-color: transparent;
+	border: 1px solid white;
+	
+
+}
+
+.bt a{
+	text-decoration: none;
+	color: white;
+}
+
+.btnn{
+	padding: 12px 24px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	border: 1px solid white;
+	background-color: #609DE6;
+	
+
+}
+.btnn a{
+	text-decoration: none;
+	color: white;
+}
+.header-info{
+	text-align: center;
+	margin-top: 55px;
+}
+
+.header-info img{
+	width: 700px;
+	
+}
+
+.header-info h1{
+	color: white;
+	font-weight: 300;
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+.bt2{
+	padding: 12px 24px;
+	border-radius: 8px;
+	border: 1px solid white;
+	font-weight: bold;
+	color: white;
+	background-color: #609DE6;
+
+}
+
+.bt2 a{
+	text-decoration: none;
+	color: white;
+}
+
+
+
+
+.title1{
+	text-align: center;
+	padding-top: 15px;
+
+}
+
+.title1 p{
+	color: ;
+}
+
+.title1 p span{
+	background-color: #609DE6;
+
+	padding:  5px 14px;
+	border-radius: 40%;
+	margin-right: 15px;
+}
+
+hr{
+	color: red;
+}
+
+
+
+.picadd{
+	width: 80%;
+	margin:0 auto;
+
+	
+}
+
+.blog{
+	width: 30%;
+	float: left;
+	overflow: hidden;
+	margin-left: 20px;
+	margin-top: 60px;
+	box-shadow: 10px 10px 30px gray;
+}
+
+.blog img{
+	width: 330px;
+	height: 300px;
+}
+
+.blog p {
+margin-left: 20px;
+}
+
+.blog  a{
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+
+.title2{
+	margin-top: 600px;
+	text-align: center;
+	font-size: 24px;
+}
+.title2 p{
+	font-size: 18px;
+}
+
+
+
+
+.blog span{
+		background-color: #31639c;
+		font-size: 9px;
+		color: white;
+		padding:  6px 18px;
+	    border-radius: 35%;
+	    float: right;
+	    padding-top: 8px;
+	    margin-right: 5px;
+}
+
+
+
+
+
+
+
+.icon{
+	width: 80%;
+	margin:0 auto;
+
+	
+}
+
+.icon1{
+	width: 45%;
+	float: left;
+	overflow: hidden;
+	margin-left: 30px;
+	margin-top: 60px;
+	box-shadow: 10px 10px 30px gray;
+}
+
+.icon1 img{
+	width: 60px;
+	height: 50px;
+	padding-top: 30px;
+	margin-right: 20px;
+}
+
+.icon1 p {
+margin-left: 130px;
+
+}
+
+.icon1  a{
+	text-decoration: none;
+	margin-left: 130px;
+}
+
+
+
+.icon span{
+		background-color: #31639c;
+		font-size: 9px;
+		color: white;
+		padding:  6px 18px;
+	    border-radius: 35%;
+	    float: right;
+	    padding-top: px;
+	    margin-right: 20px;
+	    margin-top: 30px;
+}
+
+.video{
+	width: 100%;
+	margin: 0 auto;
+}
+
+/*.videotitle{
+	width: 100%;
+	padding-top:;
+	overflow: hidden;
+	margin-top: 60px;
+	border:1px solid gray;
+}*/
+.videotitle h3{
+	padding-top: 200px;
+	font-size: 40px;
+	text-align: center;
+    width: 100%;
+	overflow: hidden;
+	border:1 px solid gray;
+
+}
+
+.videos{
+	padding-top: 60px;
+	border-radius: 20%;
+}
+
+
+.videotitle p{
+	font-size: 18px;
+	padding-top: 10px;
+}
+
+.end{
+	width: 100%;
+	height: 100px;
+	background-color:  #609DE6;
+	margin-top: 150px;
+	overflow: hidden;
+}
+
+.a h4{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 35px;
+	font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+
+}
+
+
+.a h4 a{
+	color: white;
+	text-decoration: none;
+} 
+
+
+
+.frooter{
+	width: 100%;
+	height: 400px;
+	background-color: #252525;
+}
+
+.frooter-text{
+	margin-left: 120px;
+	color: white;
+	padding-top: 100px;
+	float: left;
+
+}
+
+.frooter-text h5{
+	font-size: 18px;
+
+}
+.frooter-text1 h6{
+	font-size: 18px;
+
+}
+
+.frooter-text1{
+	margin-left: 120px;
+	color: white;
+	padding-top:100px;
+	float:right;
+}
+
+
+.frooter-end {
+	width: 100%;
+	height: 100px;
+	background-color: black;
+} 
+
+.frooter-text-end{
+	color: white;
+}
+.frooter-end span{
+	color: red;
+}
+
+
+
