@@ -69,10 +69,17 @@ header{
 	
 
 }
+.bt:hover{
+	background-color:rgba(94, 144, 219, 0.867);
+}
 
 .bt a{
 	text-decoration: none;
 	color: white;
+}
+
+.bt a:hover{
+	color:black ;
 }
 
 .btnn{
@@ -85,9 +92,15 @@ header{
 	
 
 }
+.btnn:hover{
+	background-color: white;
+}
 .btnn a{
 	text-decoration: none;
 	color: white;
+}
+.btnn a:hover{
+	color: black;
 }
 .header-info{
 	text-align: center;
@@ -115,12 +128,17 @@ header{
 	background-color: #609DE6;
 
 }
+.bt2:hover{
+	background-color: white;
+}
 
 .bt2 a{
 	text-decoration: none;
 	color: white;
 }
-
+.bt2 a:hover{
+	color: #252525;
+}
 
 
 
@@ -228,7 +246,7 @@ margin-left: 20px;
 	width: 60px;
 	height: 50px;
 	padding-top: 30px;
-	margin-right: 20px;
+	margin-left: 20px;
 }
 
 .icon1 p {
@@ -314,14 +332,14 @@ margin-left: 130px;
 
 .frooter{
 	width: 100%;
-	height: 400px;
+	height: 250px;
 	background-color: #252525;
 }
 
 .frooter-text{
 	margin-left: 120px;
 	color: white;
-	padding-top: 100px;
+	padding-top: 50px;
 	float: left;
 
 }
@@ -336,9 +354,9 @@ margin-left: 130px;
 }
 
 .frooter-text1{
-	margin-left: 120px;
+	padding-right: 100px;
 	color: white;
-	padding-top:100px;
+	padding-top:50px;
 	float:right;
 }
 
@@ -351,6 +369,8 @@ margin-left: 130px;
 
 .frooter-text-end{
 	color: white;
+	text-align: center;
+	padding-top: 50px;
 }
 .frooter-end span{
 	color: red;
