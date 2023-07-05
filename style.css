@@ -199,28 +199,9 @@ p {
 /* End Header section */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Hero Section */
 #hero {
-	background-image: url(bg.jpg);
+	background-image: url(img/bg.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -377,7 +358,7 @@ p {
 	text-align: center;
 	max-width: 1200px;
 	margin: 0 auto;
-	padding: 100px 20px;
+	padding: 15px 55px;
 }
 #about .col-left {
 	width: 250px;
@@ -412,6 +393,8 @@ p {
 /* End About Section */
 
 /* contact Section */
+
+
 #contact .contact {
 	flex-direction: column;
 	max-width: 1200px;
